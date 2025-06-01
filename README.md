@@ -23,5 +23,6 @@ Saída Esperada: Exibe o calendário do mês de abril de 2020.
 Classe 4: A função getCalendario recebe os parâmetros 10 e 1752, respectivamente.
 Parâmetro 1: 10
 Parâmetro 2: 1752
+Saída Esperada: Exibe o calendário de outubro de 1752, no qual o dia 4 antecede o dia 15.
 ```
 
