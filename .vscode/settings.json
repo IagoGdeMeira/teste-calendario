@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "libs/paranavai.calendario-0.0.1-SNAPSHOT.jar",
+        "libs/junit-platform-console-standalone-1.10.0.jar"
+    ]
+}
